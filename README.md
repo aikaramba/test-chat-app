@@ -7,5 +7,6 @@ Test chat app I made in 2 hours (almost)
 ## Instructions
 
 ```shell script
+npm i
 npm start
 ```
